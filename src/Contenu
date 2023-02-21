@@ -1,0 +1,18 @@
+/*<div className="App">
+      <Item/>
+     <Test
+     //names={name}
+     region={region}
+     tel={tel}
+     names={'SAMBA'}
+    image={images}
+     >
+      {images}
+      
+      </Test>
+      <h1>{count}</h1>
+      <button onClick={()=>setCount(count+1)}> Compteur</button>
+    <button onClick={UpdateCounte}>Compteur2</button>
+    <button onClick={()=>entrerClick("IBRAHIMA")}>Cliquer</button>*/
+    
+</div>*/
